@@ -4,7 +4,7 @@ Dashboard Link: https://app.powerbi.com/reportEmbed?reportId=3e0a3b13-2f1f-4a6d-
 
 ## Problem Statement
 
-Many supermarket chains face significant challenges in monitoring their operational costs, efficiently managing stocks, allocating staff schedules, and planning marketing campaigns. The decision-making process of managers in these areas plays a crucial role in the development of supermarkets, as it can have a significant impact on customer satisfaction and, consequently, financial results.<br />
+Many supermarket chains face significant challenges in monitoring their operational costs, efficiently managing stocks, allocating staff schedules, and planning marketing campaigns. The decision-making process of managers in these areas plays a crucial role in the development of supermarkets, as it can have a significant impact on customer satisfaction and, consequently, financial results.<br /><br />
 The implementation of this dashboard in a supermarket chain's information system aims to support managers in the detailed analysis of operational, financial, and marketing data from their stores. This provides a valuable source of information for:
 
   • Overall performance of the establishments over time, allowing decisions on the continuity of operation for each, with a focus on financial sustainability. <br />
